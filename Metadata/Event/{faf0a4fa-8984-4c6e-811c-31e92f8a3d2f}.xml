@@ -96,10 +96,13 @@
 			<value>true</value>
 		</property>
 		<property name="triggerProbability">
-			<value>35</value>
+			<value>40</value>
 		</property>
 		<property name="length">
-			<value>22</value>
+			<value>30</value>
+		</property>
+		<property name="pitch">
+			<value>-0.400000006</value>
 		</property>
 		<relationship name="sounds">
 			<destination>{4e7c25cf-4d15-486f-831f-d229dfdc51d1}</destination>
@@ -130,7 +133,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>22</value>
+			<value>30</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{84cce947-00a7-46ad-b780-54da0f34e7cb}</destination>
