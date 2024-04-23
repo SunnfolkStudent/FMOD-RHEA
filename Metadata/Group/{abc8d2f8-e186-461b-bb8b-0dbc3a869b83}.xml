@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{abc8d2f8-e186-461b-bb8b-0dbc3a869b83}">
+		<property name="name">
+			<value>Eerie</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{06d2dddd-7f36-4261-aad6-f90251102c45}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{964e5aaa-956e-43de-898a-8b3d3f2bbeac}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{539cd104-8fab-446a-9a79-b61fcd76da96}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{06d2dddd-7f36-4261-aad6-f90251102c45}">
+		<relationship name="effects">
+			<destination>{06fbe372-2df6-4bd9-b1fd-9a8a8e3610de}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{964e5aaa-956e-43de-898a-8b3d3f2bbeac}" />
+	<object class="MixerBusFader" id="{06fbe372-2df6-4bd9-b1fd-9a8a8e3610de}" />
+</objects>
