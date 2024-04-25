@@ -98,6 +98,9 @@
 		<property name="triggerProbability">
 			<value>40</value>
 		</property>
+		<property name="start">
+			<value>14</value>
+		</property>
 		<property name="length">
 			<value>30</value>
 		</property>
@@ -139,7 +142,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>30</value>
+			<value>45</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{84cce947-00a7-46ad-b780-54da0f34e7cb}</destination>
@@ -156,26 +159,41 @@
 	<object class="MixerBusPanner" id="{df643681-0d8b-46af-b749-546548b3e20e}" />
 	<object class="MixerBusFader" id="{3d547aca-3cf2-4f87-a569-6b502788b888}" />
 	<object class="SingleSound" id="{4e7c25cf-4d15-486f-831f-d229dfdc51d1}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{e3b30b2d-c7f9-4ab7-ac7d-6ed09191a7a0}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{9035c98c-fbe1-4ad8-95a5-d41d34ea4ba7}">
+		<property name="volume">
+			<value>-5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{20f5c114-feb7-4f3f-9c8e-b605df72cd94}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{b1e1f956-6407-45e5-bcd4-691ca8ff210e}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{241b04a3-c5ce-4831-b697-9f6b55975a2b}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{5c248d61-ec13-4571-bcce-08d9f6d40626}">
+		<property name="volume">
+			<value>3.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{f86a675c-661f-434a-a247-8ac8897fc0d2}</destination>
 		</relationship>
 	</object>
 	<object class="SingleSound" id="{98a34042-61f7-4367-acf6-0d33bcecf727}">
+		<property name="volume">
+			<value>4.5</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{a93d2f6f-0047-45f6-a7ac-a0adbdeea068}</destination>
 		</relationship>

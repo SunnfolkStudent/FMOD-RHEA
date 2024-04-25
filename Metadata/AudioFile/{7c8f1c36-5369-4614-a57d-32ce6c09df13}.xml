@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7c8f1c36-5369-4614-a57d-32ce6c09df13}">
+		<property name="assetPath">
+			<value>Phasmarine/SFX/Player/sand_walk_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80766666666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>
+		</relationship>
+	</object>
+</objects>
