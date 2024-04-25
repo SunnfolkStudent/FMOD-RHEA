@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{04e2bae2-19fc-4cb5-83c2-288a2fbfae66}">
+	<object class="AudioFile" id="{a93d2f6f-0047-45f6-a7ac-a0adbdeea068}">
 		<property name="assetPath">
-			<value>flashlight_tase_1.wav</value>
+			<value>Phasmarine/Eerie/aaaaahhh.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1</value>
+			<value>9.2551249999999996</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>
