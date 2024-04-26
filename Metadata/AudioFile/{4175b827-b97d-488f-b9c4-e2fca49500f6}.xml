@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{0daf6683-95b7-4908-9f66-e0793847a833}">
+	<object class="AudioFile" id="{4175b827-b97d-488f-b9c4-e2fca49500f6}">
 		<property name="assetPath">
-			<value>Phasmarine/Eerie/eerie_4.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>Phasmarine/SFX/Player/sand_walk_4.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>24</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>16.497541666666667</value>
+			<value>0.58558333333333334</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>

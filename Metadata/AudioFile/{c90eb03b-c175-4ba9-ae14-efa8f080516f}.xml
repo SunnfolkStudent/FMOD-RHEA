@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{e44b0427-0345-4c6b-91ba-22466380f109}">
+	<object class="AudioFile" id="{c90eb03b-c175-4ba9-ae14-efa8f080516f}">
 		<property name="assetPath">
-			<value>Phasmarine/SFX/Player/sand_walk_2.wav</value>
+			<value>Phasmarine/SFX/Player/sand_walk_1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>24</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.71754166666666663</value>
+			<value>0.52783333333333338</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{eef04f49-3ce2-4740-b47d-5917242f1b04}">
+	<object class="AudioFile" id="{d44e4388-5cdd-4c9f-993a-8eaf254e95ca}">
 		<property name="assetPath">
 			<value>Phasmarine/SFX/Player/sand_walk_5.wav</value>
 		</property>
