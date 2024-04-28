@@ -104,9 +104,6 @@
 		<property name="length">
 			<value>30</value>
 		</property>
-		<property name="pitch">
-			<value>-0.400000006</value>
-		</property>
 		<relationship name="sounds">
 			<destination>{4e7c25cf-4d15-486f-831f-d229dfdc51d1}</destination>
 			<destination>{9035c98c-fbe1-4ad8-95a5-d41d34ea4ba7}</destination>
@@ -114,6 +111,8 @@
 			<destination>{5c248d61-ec13-4571-bcce-08d9f6d40626}</destination>
 			<destination>{98a34042-61f7-4367-acf6-0d33bcecf727}</destination>
 			<destination>{8e2e8f8a-81a5-419c-8bc2-8258f492af41}</destination>
+			<destination>{c8217e0d-f189-41ba-8dad-bf3098b95b63}</destination>
+			<destination>{fc919758-c16d-413b-b30f-4d0361396b42}</destination>
 		</relationship>
 		<relationship name="playPercentages">
 			<destination>{76acdd56-eb78-4fac-bd43-a00c96c0ba10}</destination>
@@ -141,10 +140,10 @@
 	</object>
 	<object class="LoopRegion" id="{0e4ce5e6-14e2-4223-abd3-776606f411b4}">
 		<property name="position">
-			<value>0</value>
+			<value>5</value>
 		</property>
 		<property name="length">
-			<value>45</value>
+			<value>40</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{84cce947-00a7-46ad-b780-54da0f34e7cb}</destination>
@@ -163,6 +162,9 @@
 	<object class="SingleSound" id="{4e7c25cf-4d15-486f-831f-d229dfdc51d1}">
 		<property name="volume">
 			<value>-10</value>
+		</property>
+		<property name="pitch">
+			<value>-5</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{e3b30b2d-c7f9-4ab7-ac7d-6ed09191a7a0}</destination>
@@ -206,6 +208,22 @@
 		</property>
 		<relationship name="audioFile">
 			<destination>{44867ab7-e704-44cd-8299-7f7770702e89}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{c8217e0d-f189-41ba-8dad-bf3098b95b63}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{e526aeff-71bb-47b3-9188-21d602f07eeb}</destination>
+		</relationship>
+	</object>
+	<object class="SingleSound" id="{fc919758-c16d-413b-b30f-4d0361396b42}">
+		<property name="volume">
+			<value>2.5</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{6c5de047-269c-4c82-91be-5557c9431984}</destination>
 		</relationship>
 	</object>
 	<object class="PlayPercentage" id="{76acdd56-eb78-4fac-bd43-a00c96c0ba10}">
