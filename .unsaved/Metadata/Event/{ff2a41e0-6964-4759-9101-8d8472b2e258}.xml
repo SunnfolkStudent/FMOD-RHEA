@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{ff2a41e0-6964-4759-9101-8d8472b2e258}">
 		<property name="name">
-			<value>klokkeBakgrunn</value>
+			<value>minigameMusic</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{0eb254fb-1585-4421-8e33-f6638a3bc2b4}</destination>
+			<destination>{0b8845a8-83e1-417c-a7ab-0cee872625ff}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{26fddcdb-c4f1-44e4-8b8d-6faf32c0c96f}</destination>
@@ -33,6 +33,7 @@
 		</relationship>
 		<relationship name="banks">
 			<destination>{0f7ea4f1-747c-4cb3-94c5-ff0fef60c99e}</destination>
+			<destination>{a1d8ee4c-10e0-43b7-9df9-ab500cef9aca}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{26fddcdb-c4f1-44e4-8b8d-6faf32c0c96f}">

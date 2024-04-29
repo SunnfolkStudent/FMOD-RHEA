@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{7fbbbba5-4ddf-4d9c-9048-183535717618}">
+	<object class="AudioFile" id="{bc9a8e77-8f2d-4703-a580-8454de30e74f}">
 		<property name="assetPath">
-			<value>Phasmarine/Music/ding ding ding.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>MinigameMusic/minigameMusic.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
@@ -14,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>96</value>
+			<value>4.2666666666666666</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>

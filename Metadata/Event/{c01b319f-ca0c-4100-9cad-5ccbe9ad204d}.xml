@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{c01b319f-ca0c-4100-9cad-5ccbe9ad204d}">
 		<property name="name">
-			<value>klokke feil</value>
+			<value>klokkeFeil</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
