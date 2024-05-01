@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{bc9a8e77-8f2d-4703-a580-8454de30e74f}">
+	<object class="AudioFile" id="{af64efc6-d5b2-4702-888a-16bcda874645}">
 		<property name="assetPath">
-			<value>MinigameMusic/minigameMusic.wav</value>
+			<value>sonar_ping.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>4.2666666666666666</value>
+			<value>2.1689115646258506</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>
