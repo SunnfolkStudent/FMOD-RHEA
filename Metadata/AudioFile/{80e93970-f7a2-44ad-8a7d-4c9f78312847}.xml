@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{80e93970-f7a2-44ad-8a7d-4c9f78312847}">
+		<property name="assetPath">
+			<value>Phasmarine/SFX/Player/flashlight_stun_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51195833333333329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9ea293e2-bc9f-412e-a3d7-c0172cbd0c51}</destination>
+		</relationship>
+	</object>
+</objects>
