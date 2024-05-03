@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{76442a9b-4002-492c-9f1f-bcf7d1d225cb}">
 		<property name="assetPath">
-			<value>Phasmarine/Music/HYL.wav</value>
+			<value>Phasmarine/Music/mainMenu.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

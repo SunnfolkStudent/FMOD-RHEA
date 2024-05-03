@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{7fbbbba5-4ddf-4d9c-9048-183535717618}">
 		<property name="assetPath">
-			<value>Phasmarine/Music/ding ding ding.wav</value>
+			<value>Phasmarine/Music/tutorial.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
